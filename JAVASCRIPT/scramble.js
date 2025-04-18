@@ -45,7 +45,7 @@ const words= [
 	},
 	
 	{
-		word: "Uuchlaarai",
+		word: "Uchlaarai",
 		hint: "You'd use this when you want to get someone's attention or move through a crowd in Mongalian"
 	},
 	
